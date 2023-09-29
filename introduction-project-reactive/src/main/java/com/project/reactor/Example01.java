@@ -6,7 +6,7 @@ import reactor.core.publisher.Mono;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Ejemplo01 {
+public class Example01 {
     public static void main(String[] args) {
 
         List<Integer> elementsFromMono = new ArrayList<>();
