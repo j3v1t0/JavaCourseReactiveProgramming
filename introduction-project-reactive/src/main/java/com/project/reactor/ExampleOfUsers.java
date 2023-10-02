@@ -4,8 +4,8 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import reactor.core.publisher.Flux;
 
-public class TestUsers {
-    private static final Logger log = LoggerFactory.getLogger(TestUsers.class);
+public class ExampleOfUsers {
+    private static final Logger log = LoggerFactory.getLogger(ExampleOfUsers.class);
 
     public static void main(String[] args) {
         Flux<String> names = Flux.just(
