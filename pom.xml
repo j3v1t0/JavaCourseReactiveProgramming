@@ -31,6 +31,7 @@
     </dependencies>
     <modules>
         <module>introduction-project-reactive</module>
+        <module>step-verifier-testing</module>
     </modules>
     <build>
         <plugins>
