@@ -18,4 +18,27 @@ public class ExampleTest {
                 .expectComplete()
                 .verify();
     }
+    @Test
+    public void StringFluxTesting(){
+        Flux<String> stringFlux = Flux.just(
+                "Jessica",
+                "John",
+                "Tomas",
+                "Melissa",
+                "Steve",
+                "Megan",
+                "Monica",
+                "Henry")
+                .filter(name -> name.length() <= 5) //
+                .map(String::toUpperCase);
+
+        StepVerifier.create(stringFlux)
+                .expectNext("JOHN")
+                .expectNext("TOMAS")
+                .expectNextMatches(name -> name.startsWith("ST"))
+                .expectNext("MEGAN")
+                .expectNext("HENRY")
+                .expectComplete()
+                .verify();
+    }
 }

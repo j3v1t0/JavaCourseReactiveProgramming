@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7b9c7957-c4f1-4b38-8b92-38018f6d5ed4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/step-verifier-testing/src/test/java/ExampleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/step-verifier-testing/src/test/java/ExampleTest.java" afterDir="false" />
@@ -61,46 +64,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.ExampleTest.testFlux">
-    <configuration name="Example02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.project.reactor.Example02" />
-      <module name="introduction-project-reactive" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.project.reactor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Example03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.project.reactor.Example03" />
-      <module name="introduction-project-reactive" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.project.reactor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Example04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.project.reactor.Example04" />
-      <module name="introduction-project-reactive" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.project.reactor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.MicroservicesStepVerifierApplicationTests">
     <configuration name="ExampleOfUsers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.project.reactor.ExampleOfUsers" />
       <module name="introduction-project-reactive" />
@@ -114,12 +78,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ExampleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="step-verifier-testing" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ExampleTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExampleTest.StringFluxTesting" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="step-verifier-testing" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ExampleTest" />
+      <option name="METHOD_NAME" value="StringFluxTesting" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ExampleTest.testFlux" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="step-verifier-testing" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="ExampleTest" />
       <option name="METHOD_NAME" value="testFlux" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicroservicesStepVerifierApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="microservices-step-verifier" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.step.verifier.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.step.verifier" />
+      <option name="MAIN_CLASS_NAME" value="com.step.verifier.MicroservicesStepVerifierApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -138,13 +136,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MicroservicesStepVerifierApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="microservices-step-verifier" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.step.verifier.MicroservicesStepVerifierApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MicroservicesStepVerifierApplicationTests" />
+        <item itemvalue="JUnit.ExampleTest" />
+        <item itemvalue="JUnit.ExampleTest.StringFluxTesting" />
         <item itemvalue="JUnit.ExampleTest.testFlux" />
         <item itemvalue="Application.ExampleOfUsers" />
-        <item itemvalue="Application.Example04" />
-        <item itemvalue="Application.Example03" />
-        <item itemvalue="Application.Example02" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +166,9 @@
       <workItem from="1695993915080" duration="1899000" />
       <workItem from="1695995904798" duration="3319000" />
       <workItem from="1696255763428" duration="3048000" />
-      <workItem from="1696259009045" duration="1008000" />
+      <workItem from="1696259009045" duration="3323000" />
+      <workItem from="1696273965282" duration="2370000" />
+      <workItem from="1696341365243" duration="743000" />
     </task>
     <servers />
   </component>
