@@ -10,7 +10,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/step-verifier-testing/src/test/java/ExampleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/step-verifier-testing/src/test/java/ExampleTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,13 +63,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.MicroservicesStepVerifierApplicationTests">
-    <configuration name="ExampleOfUsers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.project.reactor.ExampleOfUsers" />
-      <module name="introduction-project-reactive" />
+  <component name="RunManager" selected="Application.Example02">
+    <configuration name="Example02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.reactive.programming.Example02" />
+      <module name="backpressure-examples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.project.reactor.*" />
+          <option name="PATTERN" value="com.reactive.programming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Example02" />
         <item itemvalue="JUnit.MicroservicesStepVerifierApplicationTests" />
         <item itemvalue="JUnit.ExampleTest" />
         <item itemvalue="JUnit.ExampleTest.StringFluxTesting" />
         <item itemvalue="JUnit.ExampleTest.testFlux" />
-        <item itemvalue="Application.ExampleOfUsers" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +167,7 @@
       <workItem from="1696255763428" duration="3048000" />
       <workItem from="1696259009045" duration="3323000" />
       <workItem from="1696273965282" duration="2370000" />
-      <workItem from="1696341365243" duration="743000" />
+      <workItem from="1696341365243" duration="3362000" />
     </task>
     <servers />
   </component>

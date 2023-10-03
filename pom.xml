@@ -33,6 +33,7 @@
         <module>introduction-project-reactive</module>
         <module>step-verifier-testing</module>
         <module>microservices-step-verifier</module>
+        <module>backpressure-examples</module>
     </modules>
     <build>
         <plugins>
