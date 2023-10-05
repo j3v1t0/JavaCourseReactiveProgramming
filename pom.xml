@@ -34,6 +34,7 @@
         <module>step-verifier-testing</module>
         <module>microservices-step-verifier</module>
         <module>backpressure-examples</module>
+        <module>transformation-combination-flows</module>
     </modules>
     <build>
         <plugins>

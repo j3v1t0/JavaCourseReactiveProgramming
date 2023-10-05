@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="microservices-step-verifier" />
         <module name="backpressure-examples" />
+        <module name="transformation-combination-flows" />
         <module name="introduction-project-reactive" />
         <module name="step-verifier-testing" />
       </profile>
@@ -24,6 +25,7 @@
       <module name="introduction-project-reactive" options="-parameters" />
       <module name="microservices-step-verifier" options="-parameters" />
       <module name="step-verifier-testing" options="-parameters" />
+      <module name="transformation-combination-flows" options="-parameters" />
     </option>
   </component>
 </project>
