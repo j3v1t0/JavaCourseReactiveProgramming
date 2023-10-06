@@ -5,12 +5,6 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/introduction-project-reactive/pom.xml" />
-        <option value="$PROJECT_DIR$/step-verifier-testing/pom.xml" />
-        <option value="$PROJECT_DIR$/microservices-step-verifier/pom.xml" />
-        <option value="$PROJECT_DIR$/backpressure-examples/pom.xml" />
-        <option value="$PROJECT_DIR$/transformation-combination-flows/pom.xml" />
-        <option value="$PROJECT_DIR$/exception-handling/pom.xml" />
       </list>
     </option>
   </component>

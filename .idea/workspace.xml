@@ -65,16 +65,17 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.exception.handling" />
       <recent name="com.reactive.programming" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Example07">
-    <configuration name="Example05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.reactive.programming.Example05" />
-      <module name="transformation-combination-flows" />
+  <component name="RunManager" selected="Application.Example04">
+    <configuration name="Example01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exception.handling.Example01" />
+      <module name="exception-handling" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.reactive.programming.*" />
+          <option name="PATTERN" value="com.exception.handling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +83,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.reactive.programming.Example06" />
-      <module name="transformation-combination-flows" />
+    <configuration name="Example02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exception.handling.Example02" />
+      <module name="exception-handling" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.reactive.programming.*" />
+          <option name="PATTERN" value="com.exception.handling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exception.handling.Example03" />
+      <module name="exception-handling" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.exception.handling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exception.handling.Example04" />
+      <module name="exception-handling" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.exception.handling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,25 +131,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExersicesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="transformation-combination-flows" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ExersicesTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExersicesTest.testMergeWith" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="transformation-combination-flows" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ExersicesTest" />
-      <option name="METHOD_NAME" value="testMergeWith" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -150,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Example04" />
+        <item itemvalue="Application.Example03" />
+        <item itemvalue="Application.Example02" />
+        <item itemvalue="Application.Example01" />
         <item itemvalue="Application.Example07" />
-        <item itemvalue="Application.Example06" />
-        <item itemvalue="JUnit.ExersicesTest" />
-        <item itemvalue="JUnit.ExersicesTest.testMergeWith" />
-        <item itemvalue="Application.Example05" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +182,8 @@
       <workItem from="1696259009045" duration="3323000" />
       <workItem from="1696273965282" duration="2370000" />
       <workItem from="1696341365243" duration="8047000" />
-      <workItem from="1696510663597" duration="1191000" />
+      <workItem from="1696510663597" duration="2117000" />
+      <workItem from="1696596339358" duration="2566000" />
     </task>
     <servers />
   </component>

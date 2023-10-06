@@ -35,6 +35,7 @@
         <module>microservices-step-verifier</module>
         <module>backpressure-examples</module>
         <module>transformation-combination-flows</module>
+        <module>exception-handling</module>
     </modules>
     <build>
         <plugins>

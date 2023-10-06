@@ -7,6 +7,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="exception-handling" />
         <module name="microservices-step-verifier" />
         <module name="backpressure-examples" />
         <module name="transformation-combination-flows" />
@@ -22,6 +23,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="backpressure-examples" options="-parameters" />
       <module name="course-reactive-programming" options="" />
+      <module name="exception-handling" options="-parameters" />
       <module name="introduction-project-reactive" options="-parameters" />
       <module name="microservices-step-verifier" options="-parameters" />
       <module name="step-verifier-testing" options="-parameters" />
