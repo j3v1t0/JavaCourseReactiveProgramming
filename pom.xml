@@ -36,6 +36,7 @@
         <module>backpressure-examples</module>
         <module>transformation-combination-flows</module>
         <module>exception-handling</module>
+        <module>example-reactive-thymeleaf</module>
     </modules>
     <build>
         <plugins>

@@ -11,6 +11,7 @@
         <option value="$PROJECT_DIR$/backpressure-examples/pom.xml" />
         <option value="$PROJECT_DIR$/transformation-combination-flows/pom.xml" />
         <option value="$PROJECT_DIR$/exception-handling/pom.xml" />
+        <option value="$PROJECT_DIR$/example-reactive-thymeleaf/pom.xml" />
       </list>
     </option>
   </component>

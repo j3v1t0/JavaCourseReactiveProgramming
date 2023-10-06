@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Reactive List</title>
+</head>
+<body>
+<h1>Thymeleaf + Spring WebFlux</h1>
+
+<table>
+    <tr th:each="product:${productList}">
+        <td th:text="${product.number}"></td>
+        <td th:text="${product.name}"></td>
+        <td th:text="${product.amount}"></td>
+    </tr>
+</table>
+
+</body>
+</html>
