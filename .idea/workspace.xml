@@ -75,7 +75,7 @@
       <recent name="com.exception.handling" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HotRefCountPublishers">
+  <component name="RunManager" selected="Spring Boot.AnnotationsReactiveApiRestApplication">
     <configuration name="CoolPublishers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.reactive.programming.CoolPublishers" />
       <module name="hot-cold-publishers" />
@@ -141,6 +141,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="AnnotationsReactiveApiRestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="annotations-reactive-api-rest" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.reactive.api.rest.AnnotationsReactiveApiRestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CourseReactiveProgrammingApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="course-reactive-programming" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.reactive.programming.CourseReactiveProgrammingApplication" />
@@ -198,7 +205,7 @@
       <workItem from="1696510663597" duration="2117000" />
       <workItem from="1696596339358" duration="7899000" />
       <workItem from="1697028487475" duration="740000" />
-      <workItem from="1697032838826" duration="2888000" />
+      <workItem from="1697032838826" duration="5689000" />
     </task>
     <servers />
   </component>

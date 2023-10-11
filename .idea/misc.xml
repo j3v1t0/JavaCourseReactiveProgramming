@@ -13,6 +13,7 @@
         <option value="$PROJECT_DIR$/exception-handling/pom.xml" />
         <option value="$PROJECT_DIR$/example-reactive-thymeleaf/pom.xml" />
         <option value="$PROJECT_DIR$/hot-cold-publishers/pom.xml" />
+        <option value="$PROJECT_DIR$/annotations-reactive-api-rest/pom.xml" />
       </list>
     </option>
   </component>

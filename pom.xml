@@ -37,7 +37,8 @@
         <module>transformation-combination-flows</module>
         <module>exception-handling</module>
         <module>example-reactive-thymeleaf</module>
-        <module>backpressure-examples</module>
+        <module>hot-cold-publishers</module>
+        <module>annotations-reactive-api-rest</module>
     </modules>
     <build>
         <plugins>
