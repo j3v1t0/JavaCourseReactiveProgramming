@@ -12,6 +12,7 @@
         <option value="$PROJECT_DIR$/transformation-combination-flows/pom.xml" />
         <option value="$PROJECT_DIR$/exception-handling/pom.xml" />
         <option value="$PROJECT_DIR$/example-reactive-thymeleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/hot-cold-publishers/pom.xml" />
       </list>
     </option>
   </component>

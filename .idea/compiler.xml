@@ -11,6 +11,7 @@
         <module name="example-reactive-thymeleaf" />
         <module name="backpressure-examples" />
         <module name="introduction-project-reactive" />
+        <module name="hot-cold-publishers" />
         <module name="exception-handling" />
         <module name="transformation-combination-flows" />
         <module name="step-verifier-testing" />
@@ -26,6 +27,7 @@
       <module name="course-reactive-programming" options="" />
       <module name="example-reactive-thymeleaf" options="-parameters" />
       <module name="exception-handling" options="-parameters" />
+      <module name="hot-cold-publishers" options="-parameters" />
       <module name="introduction-project-reactive" options="-parameters" />
       <module name="microservices-step-verifier" options="-parameters" />
       <module name="step-verifier-testing" options="-parameters" />
