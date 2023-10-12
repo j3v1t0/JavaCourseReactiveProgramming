@@ -15,6 +15,7 @@
         <module name="exception-handling" />
         <module name="transformation-combination-flows" />
         <module name="annotations-reactive-api-rest" />
+        <module name="mongodb-reactive-api-rest" />
         <module name="step-verifier-testing" />
       </profile>
     </annotationProcessing>
@@ -32,6 +33,7 @@
       <module name="hot-cold-publishers" options="-parameters" />
       <module name="introduction-project-reactive" options="-parameters" />
       <module name="microservices-step-verifier" options="-parameters" />
+      <module name="mongodb-reactive-api-rest" options="-parameters" />
       <module name="step-verifier-testing" options="-parameters" />
       <module name="transformation-combination-flows" options="-parameters" />
     </option>

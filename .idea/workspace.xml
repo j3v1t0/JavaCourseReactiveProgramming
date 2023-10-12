@@ -20,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -75,7 +76,7 @@
       <recent name="com.exception.handling" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.AnnotationsReactiveApiRestApplication">
+  <component name="RunManager" selected="Spring Boot.MongodbReactiveApiRestApplication">
     <configuration name="CoolPublishers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.reactive.programming.CoolPublishers" />
       <module name="hot-cold-publishers" />
@@ -176,6 +177,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MongodbReactiveApiRestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="mongodb-reactive-api-rest" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.reactive.api.rest.MongodbReactiveApiRestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.HotRefCountPublishers" />
@@ -205,7 +213,7 @@
       <workItem from="1696510663597" duration="2117000" />
       <workItem from="1696596339358" duration="7899000" />
       <workItem from="1697028487475" duration="740000" />
-      <workItem from="1697032838826" duration="5689000" />
+      <workItem from="1697032838826" duration="16208000" />
     </task>
     <servers />
   </component>

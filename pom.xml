@@ -39,6 +39,7 @@
         <module>example-reactive-thymeleaf</module>
         <module>hot-cold-publishers</module>
         <module>annotations-reactive-api-rest</module>
+        <module>mongodb-reactive-api-rest</module>
     </modules>
     <build>
         <plugins>
